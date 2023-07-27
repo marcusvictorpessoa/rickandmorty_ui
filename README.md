@@ -25,4 +25,4 @@ npm install
 npm run dev
 ```
 
-4. acesse [aqui] a url da aplicação.
+4. acesse em http://localhost:5173/ a url da aplicação.
